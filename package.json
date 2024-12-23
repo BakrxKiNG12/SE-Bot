@@ -1,0 +1,15 @@
+{
+  "name": "se-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": " index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "AbuBakrxKiNG12",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
